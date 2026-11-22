@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local data (contains user accounts / scores)
+*.db
+*.db-wal
+*.db-shm
+*.sqlite3
+
+# Secrets
+.env
+.env.*
+
+# Backups / editor / OS junk
+*.bak
+*~
+*.swp
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Duplicate copy of the game
+snake_pro_x_v2/
