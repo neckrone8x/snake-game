@@ -4,7 +4,9 @@ A modern take on the classic Snake game, with power-ups, enemies, combos, four d
 
 ## Play
 
-**Quick play (no install):** open `snake_pro_v2/templates/index.html` in any browser. The game works offline.
+**Play online:** https://neckrone8x.github.io/snake-game/
+
+**Quick play (no install):** open `index.html` (or `snake_pro_v2/templates/index.html`) in any browser. The game works offline.
 
 **GitHub Pages / static version:** plays solo. The page checks for the Flask server when it loads; without it, the multiplayer button, leaderboard and account controls are hidden, so there are no broken buttons.
 
